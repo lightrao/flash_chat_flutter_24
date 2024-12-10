@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "242782102914",
+    "project_id": "flash-chat-flutter-24",
+    "storage_bucket": "flash-chat-flutter-24.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242782102914:android:393186fda359c848fb5b9b",
+        "android_client_info": {
+          "package_name": "com.example.flash_chat_flutter_24"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfAx5dQGYX49QpGj1W2J25KIAw7jH175w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
